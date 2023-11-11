@@ -1,0 +1,9 @@
+if gamePlaceId == 7560156054 then
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Frenzy HUB", HidePremium = false, SaveConfig = true, ConfigFolder = "FrenzyConfig"})
+
+
+
+
+end
+OrionLib:Init()
